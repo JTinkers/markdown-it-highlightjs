@@ -1,4 +1,4 @@
-const hljs = require('highlight.js')
+const hljs = require('highlight.js/lib/core')
 
 function maybe (f) {
   try {
